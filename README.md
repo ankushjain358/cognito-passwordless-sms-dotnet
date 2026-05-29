@@ -5,7 +5,7 @@ A minimal, production-ready ASP.NET Core Web API demonstrating passwordless SMS 
 This repository allows for instant user onboarding without registration verification codes, shifting identity confirmation directly to the login flow.
 
 ## 🛠️ Tech Stack
-* **Framework:** .NET 8.0 / .NET 9.0 (ASP.NET Core Web API)
+* **Framework:** .NET 10.0 (ASP.NET Core Web API)
 * **SDK:** official AWSSDK.CognitoIdentityProvider
 * **Cloud Provider:** Amazon Web Services (AWS Cognito & SNS)
 
